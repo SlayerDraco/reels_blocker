@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reel Blocker</string>
+    <string name="accessibility_service_description">Reel Blocker helps you stay focused by blocking access to Instagram Reels. This service detects when Instagram is open and blocks the Reels tab.</string>
+    <string name="service_status">Service Status</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="block_reels">Block Reels</string>
+    <string name="required_permissions">Required Permissions</string>
+    <string name="accessibility_service">Accessibility Service</string>
+    <string name="draw_over_apps">Draw Over Other Apps</string>
+    <string name="enable">Enable</string>
+    <string name="app_description">Reel Blocker helps you stay productive by blocking access to Instagram Reels</string>
+    <string name="stay_focused">Stay focused 👊</string>
+    <string name="reels_blocked">Reels blocked 👋</string>
+</resources>
